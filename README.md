@@ -2,6 +2,9 @@
 
 EmotiMate is an Android-based mental health application designed to help individuals monitor their emotional states and receive AI-powered therapeutic support when needed. Addressing common modern-day mental health issues such as depression and anxiety, our goal was to create a more accessible and awareness-oriented support tool for emotional well-being.
 
+## 📸 Project Screenshots
+[![View on LinkedIn](https://img.shields.io/badge/View%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/nuran-atak-795220290_emotimate-mentalhealth-ai-activity-7351271053261733890-Sz_h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaC_mEBk76ImzXnnM_i_9_Uk45kBTikgB4)
+
 ## Key Features
 
 - Daily mood tracking and emotional journaling  
